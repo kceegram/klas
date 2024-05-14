@@ -1,12 +1,11 @@
 'Use Client'
 
-import HomeSectionOne from '@/Components/HomeComp/HomeSectionOne'
 import React from 'react'
-
+import HomeSectionOne from '@/Components/HomeComp/HomeSectionOne'
 const page = () => {
   return (
     <div>
-       <HomeSectionOne /> 
+       <HomeSectionOne />
     </div>
   )
 }
